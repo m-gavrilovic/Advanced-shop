@@ -1,0 +1,255 @@
+[
+    {
+        "id": 1,
+        "brand": "Riot",
+        "model": "DJ Sona",
+        "img": {
+            "src": "assets/images/figures/sona.jpg",
+            "alt": "DJ Sona Figure"
+        },
+        "category": {
+            "id": 2,
+            "title": "Female"
+        },
+        "price": {
+            "id": 2,
+            "text": 50
+        },
+        "value": "$",
+        "stock": true,
+        "delivery": true,
+        "sales": false
+    },
+    {
+        "id": 2,
+        "brand": "Riot",
+        "model": "Dunkmaster Darius",
+        "img": {
+            "src": "assets/images/figures/darius.jpg",
+            "alt": "Dunkmaster Darius Figure"
+        },
+        "category": {
+            "id": 1,
+            "title": "Male"
+        },
+        "price": {
+            "id": 3,
+            "text": 60
+        },
+        "value": "$",
+        "stock": true,
+        "delivery": true,
+        "sales": true
+    },
+    {
+        "id": 3,
+        "brand": "Riot",
+        "model": "Fizz Classic",
+        "img": {
+            "src": "assets/images/figures/fizz.jpg",
+            "alt": "Fizz Classic Figure"
+        },
+        "category": {
+            "id": 1,
+            "title": "Male"
+        },
+        "price": {
+            "id": 1,
+            "text": 40
+        },
+        "value": "$",
+        "stock": false,
+        "delivery": false,
+        "sales": false
+    },
+    {
+        "id": 4,
+        "brand": "Riot",
+        "model": "Odyssey Jinx",
+        "img": {
+            "src": "assets/images/figures/jinx.jpg",
+            "alt": "Odyssey Jinx Figure"
+        },
+        "category": {
+            "id": 2,
+            "title": "Female"
+        },
+        "price": {
+            "id": 2,
+            "text": 50
+        },
+        "value": "$",
+        "stock": true,
+        "delivery": true,
+        "sales": false
+    },
+    {
+        "id": 5,
+        "brand": "Riot",
+        "model": "Pizza Delivery Sivir",
+        "img": {
+            "src": "assets/images/figures/sivir.jpg",
+            "alt": "Pizza Delivery Sivir Figure"
+        },
+        "category": {
+            "id": 2,
+            "title": "Female"
+        },
+        "price": {
+            "id": 3,
+            "text": 60
+        },
+        "value": "$",
+        "stock": true,
+        "delivery": true,
+        "sales": true
+    },
+    {
+        "id": 6,
+        "brand": "Riot",
+        "model": "Senna & Lucian",
+        "img": {
+            "src": "assets/images/figures/sennalucian.jpg",
+            "alt": "Senna & Lucian Figure"
+        },
+        "category": {
+            "id": 2,
+            "title": "Female"
+        },
+        "price": {
+            "id": 4,
+            "text": 80
+        },
+        "value": "$",
+        "stock": false,
+        "delivery": false,
+        "sales": false
+    },
+    {
+        "id": 7,
+        "brand": "Riot",
+        "model": "Teemo Classic",
+        "img": {
+            "src": "assets/images/figures/teemo.jpg",
+            "alt": "Teemo Classic Figure"
+        },
+        "category": {
+            "id": 1,
+            "title": "Male"
+        },
+        "price": {
+            "id": 1,
+            "text": 40
+        },
+        "value": "$",
+        "stock": false,
+        "delivery": false,
+        "sales": false
+    },
+    {
+        "id": 8,
+        "brand": "Riot",
+        "model": "Twisted Fate Classic",
+        "img": {
+            "src": "assets/images/figures/tf.jpg",
+            "alt": "Twisted Fate Classic Figure"
+        },
+        "category": {
+            "id": 1,
+            "title": "Male"
+        },
+        "price": {
+            "id": 2,
+            "text": 50
+        },
+        "value": "$",
+        "stock": true,
+        "delivery": true,
+        "sales": false
+    },
+    {
+        "id": 9,
+        "brand": "Riot",
+        "model": "Vayne Classic",
+        "img": {
+            "src": "assets/images/figures/vayne.jpg",
+            "alt": "Vayne Classic Figure"
+        },
+        "category": {
+            "id": 2,
+            "title": "Female"
+        },
+        "price": {
+            "id": 1,
+            "text": 40
+        },
+        "value": "$",
+        "stock": true,
+        "delivery": true,
+        "sales": false
+    },
+    {
+        "id": 10,
+        "brand": "Riot",
+        "model": "Radiant Wukong",
+        "img": {
+            "src": "assets/images/figures/wukong.jpg",
+            "alt": "Radiant Wukong Figure"
+        },
+        "category": {
+            "id": 1,
+            "title": "Male"
+        },
+        "price": {
+            "id": 2,
+            "text": 50
+        },
+        "value": "$",
+        "stock": true,
+        "delivery": true,
+        "sales": true
+    },
+    {
+        "id": 11,
+        "brand": "Riot",
+        "model": "Yasuo Classic",
+        "img": {
+            "src": "assets/images/figures/Yasuo.jpg",
+            "alt": "Yasuo Classic Figure"
+        },
+        "category": {
+            "id": 1,
+            "title": "Male"
+        },
+        "price": {
+            "id": 1,
+            "text": 40
+        },
+        "value": "$",
+        "stock": true,
+        "delivery": true,
+        "sales": false
+    },
+    {
+        "id": 12,
+        "brand": "Riot",
+        "model": "Star Guardian Zoe",
+        "img": {
+            "src": "assets/images/figures/zoe.jpg",
+            "alt": "Star Guardian Zoe Figure"
+        },
+        "category": {
+            "id": 2,
+            "title": "Female"
+        },
+        "price": {
+            "id": 2,
+            "text": 50
+        },
+        "value": "$",
+        "stock": false,
+        "delivery": false,
+        "sales": false
+    }
+
+]

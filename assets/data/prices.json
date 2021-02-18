@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "text": 40,
+        "value": "$",
+        "numOfProducts": 4
+    },
+    {
+        "id": 2,
+        "text": 50,
+        "value": "$",
+        "numOfProducts": 5
+    },
+    {
+        "id": 3,
+        "text": 60,
+        "value": "$",
+        "numOfProducts": 2
+    },
+    {
+        "id": 4,
+        "text": 80,
+        "value": "$",
+        "numOfProducts": 1
+    }
+]

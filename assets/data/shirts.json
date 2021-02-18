@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "brand": "Riot",
+        "model": "Ahri Pocket Tee",
+        "img": {
+            "src": "assets/images/shirts/ahri_women.png",
+            "alt": "Ahri Pocket Tee"
+        },
+        "color": "Pink",
+        "category": {
+            "id": 2,
+            "title": "Women"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 25,
+        "value": "$",
+        "stock": false,
+        "delivery": false
+    },
+    {
+        "id": 2,
+        "brand": "Riot",
+        "model": "Blitzcrank Hook City",
+        "img": {
+            "src": "assets/images/shirts/blitz_unisex.png",
+            "alt": "Blitzcrank Hook City Long Sleeves"
+        },
+        "color": "Black",
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 35,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 3,
+        "brand": "Riot",
+        "model": "Dunkmaster Jersey",
+        "img": {
+            "src": "assets/images/shirts/darius_man.png",
+            "alt": "Dunkmaster Darius Basketball Jersey"
+        },
+        "color": "Red",
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 30,
+        "value": "$",
+        "stock": false,
+        "delivery": false
+    },
+    {
+        "id": 4,
+        "brand": "Riot",
+        "model": "Minion 'Deal With It' Tee",
+        "img": {
+            "src": "assets/images/shirts/dealwithitminion_unisex.png",
+            "alt": "Minion 'Deal With It' Tee"
+        },
+        "color": "Black",
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 25,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 5,
+        "brand": "Riot",
+        "model": "Jinx 'BYE BYE' Tee",
+        "img": {
+            "src": "assets/images/shirts/jinx_unisex.png",
+            "alt": "Jinx 'BYE BYE' Long Sleeve Tee"
+        },
+        "color": "Black",
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 35,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 6,
+        "brand": "Riot",
+        "model": "League Of Legends Tee",
+        "img": {
+            "src": "assets/images/shirts/league_women.png",
+            "alt": "League of Legends Women Tee"
+        },
+        "color": "Blue",
+        "category": {
+            "id": 2,
+            "title": "Women"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 25,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 7,
+        "brand": "Riot",
+        "model": "League Classic Tee",
+        "img": {
+            "src": "assets/images/shirts/lollogo_unisex.png",
+            "alt": "League Classic Tee"
+        },
+        "color": "Black",
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 20,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 8,
+        "brand": "Riot",
+        "model": "Minion 'Join Blue' Tee",
+        "img": {
+            "src": "assets/images/shirts/minionblue_unisex.png",
+            "alt": "Join Blue Minion Tee"
+        },
+        "color": "Blue",
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 25,
+        "value": "$",
+        "stock": false,
+        "delivery": false
+    },
+    {
+        "id": 9,
+        "brand": "Riot",
+        "model": "PROJECT: Katarina Tee",
+        "img": {
+            "src": "assets/images/shirts/projectkata_woman.png",
+            "alt": "PROJECT: Katarina Tee"
+        },
+        "color": "Black",
+        "category": {
+            "id": 2,
+            "title": "Women"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 30,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 10,
+        "brand": "Riot",
+        "model": "Star Guardian Syndra Tee",
+        "img": {
+            "src": "assets/images/shirts/syndra_unisex.png",
+            "alt": "Star Guiardian Syndra Tee"
+        },
+        "color": "White",
+        "category": {
+            "id": 2,
+            "title": "Women"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 25,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 11,
+        "brand": "Riot",
+        "model": "True Damage Ekko Tee",
+        "img": {
+            "src": "assets/images/shirts/truedmgeko_men.png",
+            "alt": "True Damage Ekko Tee"
+        },
+        "color": "Brown",
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 35,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 12,
+        "brand": "Riot",
+        "model": "VI 'Punch First' Tee",
+        "img": {
+            "src": "assets/images/shirts/Vi_unisex.png",
+            "alt": "VI 'Punch First' Long Sleeve Tee"
+        },
+        "color": "Black",
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 35,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    }
+]

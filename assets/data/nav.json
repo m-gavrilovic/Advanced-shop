@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "text": "Home",
+        "link": "index.html",
+        "active": false
+    },
+    {
+        "id": 2,
+        "text": "Shop",
+        "link": "figures.html",
+        "active": false
+    },
+    {
+        "id": 3,
+        "text": "Contact",
+        "link": "index.html#contact",
+        "active": false
+    },
+    {
+        "id": 4,
+        "text": "<i class='fa fa-shopping-cart'></i>",
+        "link": "cart.html",
+        "active": false
+    }
+]

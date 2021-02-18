@@ -1,0 +1,278 @@
+[
+    {
+        "id": 13,
+        "brand": "Riot",
+        "model": "Arcade Pullover",
+        "img": {
+            "src": "assets/images/hoodies/arcadepullover_unisex.png",
+            "alt": "Arcade Pullover Hoodie"
+        },
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 60,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 14,
+        "brand": "Riot",
+        "model": "Corki Flyer",
+        "img": {
+            "src": "assets/images/hoodies/corkiflyer_unisex.png",
+            "alt": "Corki Flyer"
+        },
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 65,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 15,
+        "brand": "Riot",
+        "model": "Dragon Fist Lee Sin",
+        "img": {
+            "src": "assets/images/hoodies/dragonfistlee_unisex.png",
+            "alt": "Dragon Fist Lee Sin Hoodie"
+        },
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 55,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 16,
+        "brand": "Riot",
+        "model": "Darius 'Dunked'",
+        "img": {
+            "src": "assets/images/hoodies/dunked_unisex.png",
+            "alt": "Darius Dunked Hoodie"
+        },
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 55,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 17,
+        "brand": "Riot",
+        "model": "GG WP ",
+        "img": {
+            "src": "assets/images/hoodies/ggwp_unisex.png",
+            "alt": "GG WP Hoodie"
+        },
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 45,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 18,
+        "brand": "Riot",
+        "model": "Inside Every Gnar",
+        "img": {
+            "src": "assets/images/hoodies/insideeverygnar_unisex.png",
+            "alt": "Inside Every Mega Gnar Hoodie"
+        },
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 55,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 19,
+        "brand": "Riot",
+        "model": "League Season 9",
+        "img": {
+            "src": "assets/images/hoodies/s9unisex.png",
+            "alt": "League Season 9 Hoodie"
+        },
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 45,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 20,
+        "brand": "Riot",
+        "model": "League Season 2020",
+        "img": {
+            "src": "assets/images/hoodies/leagues10_unisex.png",
+            "alt": "League Season 2020 Hoodie"
+        },
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 45,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 21,
+        "brand": "Riot",
+        "model": "Madman of Zaun",
+        "img": {
+            "src": "assets/images/hoodies/madmanofzaun_women.png",
+            "alt": "Madman of Zaun Mundo Hoodie"
+        },
+        "category": {
+            "id": 2,
+            "title": "Women"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 55,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 22,
+        "brand": "Riot",
+        "model": "PROJECT: Hunters",
+        "img": {
+            "src": "assets/images/hoodies/projecthunters_unisex.png",
+            "alt": "PROJECT: Hunters Hoodie"
+        },
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 55,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 23,
+        "brand": "Riot",
+        "model": "Snowdown Poro",
+        "img": {
+            "src": "assets/images/hoodies/snowdownporo_unisex.png",
+            "alt": "Snowdown Poro Hoodie"
+        },
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 55,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    },
+    {
+        "id": 24,
+        "brand": "Riot",
+        "model": "Thresh Hook",
+        "img": {
+            "src": "assets/images/hoodies/thresh_unisex.png",
+            "alt": "Thresh Hook Hoodie"
+        },
+        "category": {
+            "id": 1,
+            "title": "Unisex"
+        },
+        "sizes": {
+            "small": "S",
+            "medium": "M",
+            "large": "L",
+            "extraLarge": "XL"
+        },
+        "price": 65,
+        "value": "$",
+        "stock": true,
+        "delivery": true
+    }
+]
